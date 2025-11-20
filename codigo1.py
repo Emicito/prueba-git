@@ -1,3 +1,3 @@
-nombre = "Gordito"
+nombre = "Emicito"
 print(nombre)
 variable = "añaseo"
