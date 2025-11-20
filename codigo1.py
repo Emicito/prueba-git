@@ -1,0 +1,2 @@
+nombre = Emicito
+print(nombre)
