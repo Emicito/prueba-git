@@ -1,2 +1,2 @@
-# prueba-git
+# Documentación de mi proyecto
 Pruebas de git
